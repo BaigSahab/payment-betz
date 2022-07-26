@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "herouke-postBuild": "npm run build"
   },
   "dependencies": {
     "antd": "^4.20.2",
